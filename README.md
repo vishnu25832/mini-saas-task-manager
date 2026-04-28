@@ -158,5 +158,4 @@ Bearer <token>
 ## 👤 Author
 
 Vishnu Vardhan
-GitHub: [https://github.com/vishnu25832](https://github.com/vishnu25832)
 
